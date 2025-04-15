@@ -14,6 +14,7 @@
 * FFmpeg
   
 # Project Usage (online)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d64e282d-1f9e-4242-8a67-a115b70e06ae/deploy-status)](https://app.netlify.com/sites/video-converters/deploys)
 * Live demo - https://video-converters.netlify.app/
 
 # Self-Host ( Manual )
