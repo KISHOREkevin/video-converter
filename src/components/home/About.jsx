@@ -44,7 +44,7 @@ const About = () => {
 
         <div className="mt-8">
           <a
-            href="https://github.com/your-username/video-converter" // change this link!
+            href="https://github.com/KISHOREkevin/video-converter" // change this link!
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-green-600 text-white px-6 py-3 rounded-full hover:bg-green-700 transition"
