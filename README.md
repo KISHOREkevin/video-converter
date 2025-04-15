@@ -76,7 +76,8 @@ This project is licensed under the MIT License.
 
 # Author
 Kishore Kevin   
-[Portfolio](https://kishorekevin.netlify.app/) | [github](https://github.com/KISHOREkevin/) | [LinkedIn](https://www.linkedin.com/in/kishore-kevin-a5a873290)
+[Portfolio](https://kishorekevin.netlify.app/) | [github](https://github.com/KISHOREkevin/) | [LinkedIn](https://www.linkedin.com/in/kishore-kevin-a5a873290) | 
+[Youtube Channel](https://youtube.com/@codex_arch)
 
  
 ### Let me know if you want to include:
