@@ -43,7 +43,7 @@ npm run dev
 * Run this docker statement:
   ```
   docker run -d \
-    -p <Your port>:5173  \
+    -p <Your port>:3000  \
     --rm \
     --restart unless-stopped\
     --name video-converter  \
@@ -57,7 +57,7 @@ npm run dev
 * If you want to change port , open the docker compose file and change the post section as given below
   ```
   ports:
-      - <Your port>:5173
+      - <Your port>:3000
   ```
 * Run this compose script.
   ```
