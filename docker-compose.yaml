@@ -3,6 +3,6 @@ services:
     image: "kishorekevin/video-converter"
     container_name: "video-converter-container"
     ports:
-      - 5173:5173
+      - 3000:3000
     restart: "unless-stopped"
     

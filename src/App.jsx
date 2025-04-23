@@ -12,6 +12,7 @@ import Mute from './components/mute/Mute'
 import Framerate from './components/framerate/Framerate'
 import Grayscale from './components/grayscale/Grayscale'
 import About from './components/home/About'
+import Error404 from './components/error/Error404'
 const App = () => {
   return (
     <BrowserRouter>
@@ -29,6 +30,7 @@ const App = () => {
         <Route path="/video-gray-scale" element={<Grayscale/>} />
 
         <Route path="/about" element={<About/>} />
+        <Route path='*' element={<Error404 />} />
       </Routes>
     </BrowserRouter>
   )
